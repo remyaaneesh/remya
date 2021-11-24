@@ -865,6 +865,7 @@ section
 {
 	width: 100%;
 	background: #FFFFFF;
+	max-height:200px;
 }
 .why_image
 {
@@ -892,6 +893,7 @@ section
 .why_text
 {
 	margin-top: 20px;
+	height:100px;
 }
 .why_icon
 {
